@@ -1,6 +1,0 @@
-#include "include/MyFunction/CFunction.hpp"
-#include "include/MyFunction/utility.hpp"
-#include "include/MyFunction/IFunction.hpp"
-#include "include/MyMemory/SmartPtr.hpp"
-#include "include/MySignal/CSignal.hpp"
-#include "include/MySignal/CSlot.hpp"
